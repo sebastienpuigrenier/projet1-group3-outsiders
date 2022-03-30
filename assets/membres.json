@@ -45,7 +45,7 @@
     },
     {
     "id": "K-PESET",
-    "photo": "/img/Kevin_PESET.jpeg",
+    "photo": "./img/Kevin_PESET.jpeg",
     "nom": "Peset",
     "prenom": "Kevin",
     "github": "https://github.com/kpeset/",
