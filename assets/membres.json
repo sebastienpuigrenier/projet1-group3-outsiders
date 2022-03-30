@@ -111,7 +111,7 @@
     },
     {
     "id": "V-IELSCH",
-    "photo": "/img/photovalerie.png",
+    "photo": "./img/photovalerie.png",
     "nom": "IELSCH",
     "prenom": "Valérie",
     "github": "https://github.com/val0sch",
